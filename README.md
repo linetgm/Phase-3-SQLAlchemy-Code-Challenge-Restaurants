@@ -111,7 +111,7 @@ Review for {insert restaurant name} by {insert customer's full name}: {insert re
 ### Clone the repository
 
 ```python
-https://github.com/Helder-Lucau/Phase-3-SQLAlchemy-Code-Challenge
+https://github.com/linetgm/Phase-3-SQLAlchemy-Code-Challenge-Restaurants.git
 ```
 
 ### Navigate to the cloned repository using the command: 
